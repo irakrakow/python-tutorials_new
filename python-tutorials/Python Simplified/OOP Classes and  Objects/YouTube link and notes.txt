@@ -1,0 +1,6 @@
+https://www.youtube.com/watch?v=f0TrMH9s-VE
+
+
+Classes:
+Classes represent something called objects.
+An object represent attributes and methods.  Methods represent functionality.

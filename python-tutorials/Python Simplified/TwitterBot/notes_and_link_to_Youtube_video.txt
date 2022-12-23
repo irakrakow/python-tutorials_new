@@ -1,0 +1,16 @@
+Link to video:  https://www.youtube.com/watch?v=aSeqMYNhEHo
+
+# a bot is an automated piece of code meant to mimic human behavior. Bots help us avoid repetetive tasks and speed up time consuming processes.
+
+# bots pretend to be actual humans and can trick us.
+# botnets are groups who are fake.
+
+This bot 
+1)  Logs into twitter
+2)  searches for a keyword
+3)  fetches several batches of tweets
+4)  Randomly selects quote messages
+5)  Retweets the last tweet in a batch alongside with a quote message.
+
+
+
