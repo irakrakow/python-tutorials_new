@@ -1,0 +1,5 @@
+Title:  Jupyter Notebook Tutorial:  Introduction, Setup, and Walkthrough
+Author: Corey Schafer
+URL:  https://www.youtube.com/watch?v=HW29067qVWk
+
+LIGO Waves:  https://www.ligo.org/detections/GW150914.php
