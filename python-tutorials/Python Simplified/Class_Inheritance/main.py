@@ -11,4 +11,4 @@ class Guitar:
 
 my_guitar = Guitar()
 print(my_guitar.n_strings)
-my_guitar.play()
+my_guitar.play()  # invoked on my_guitar instance
