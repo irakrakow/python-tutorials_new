@@ -1,1 +1,1 @@
-##### This is a collection of Python tutorials from various sources (Harvard's CS50P course on Web Programming in Python, YouTube tutorials, my experiments, that I've gathered on my Python learning journey.  Hopefully, this can help other fellow learners.
+##### This is a collection of Python tutorials from various sources that I've gathered on my Python learning journey.  Hopefully, this can help other fellow learners.
