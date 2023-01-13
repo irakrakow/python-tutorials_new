@@ -7,7 +7,7 @@ import re
 def main():
     # passwd = 'Geek12@' - valid
     # passwd = [try a password with less than 6 characters or more than 20 characters] - invalid
-    # for example:  asddsasdf asdfa sdfa dfasdf 22f
+    # for example:  'asddsasdf asdfa sdfa dfasdf 22f'
     passwd = input("Password: ")
     reg = "^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[@$!%*#?&])[A-Za-z\d@$!#%*?&]{6,20}$"
 
