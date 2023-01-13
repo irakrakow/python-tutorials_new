@@ -1,5 +1,5 @@
 # https://www.geeksforgeeks.org/password-validation-in-python/
-#This code is contributed by Edula Vinay Kumar Reddy
+# This code is contributed by Edula Vinay Kumar Reddy
 
 def password_check(passwd):
 	SpecialSym =['$', '@', '#', '%']
