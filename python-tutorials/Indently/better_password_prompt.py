@@ -8,5 +8,7 @@ print('Password (not so good):', password)
 # need to do pip install pwinput to install the library
 # better practice: replace the password with asterisks
 # tip to hide password when user types it in
-password = pin.pwinput('Try again: ', '*')
-print('Password (better):', password)
+
+
+password_asterisks = pin.pwinput('Try again: ', '*')
+print('Password (better):', password_asterisks)
